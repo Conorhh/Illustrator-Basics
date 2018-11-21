@@ -19,17 +19,30 @@
 
 ## Some Useful Keyboard Shortcuts
 > **CMD n** - New Document *(Create a New Document)*
+
 > **v** - Selection Tool *(Move and Scale Objects)*
+
 > **a** - Direct Selection Tool *(Edit Points and Edges of Objects)*
+
 > **SPACE** - Hand Tool *(Navigate Around Your Composition)*
+
 > **m** - Rectangle Tool *(Create a Rectangle Object)*
+
 > **l** - Elipse Tool *(Create a Circular Object)*
+
 > **ALT Drag** - Drag Duplicate *(Drag an Existing Object to Duplicate it)*
+
 > **CMD D** - Duplicate *(Duplicates Your Previous Action)*
+
 > **CMD G** - Group *(Group Objects Together)*
+
 > **CMD SHFT G** - Ungroup *(Ungroup Group Objects)*
+
 > **p** - Pen Tool *(Draw Fluid Paths by Hand to Create Objects)*
+
 > **SHFT M** - Shapebuilder Tool *(Merge Subtract Objects to Create Other Objects)*
+
 > **CMD R** - Rulers *(Display Document Rulers)*
+
 > **w** - Blend Tool *(Blend One Object to Another)*
 
