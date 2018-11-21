@@ -12,7 +12,7 @@
 * [Zimri Mayfield](https://www.youtube.com/channel/UCbqd2YmFeHMwxlj4NcN5zPQ)
 * [Will Paterson](https://www.youtube.com/channel/UCIp9sEZiv36cDG7cEnrVU7Q)
 * [Satori Graphics](https://www.youtube.com/channel/UCoeJKtPJLoIBqWq4o8TDLpA)
-* [Helen Bradley](https://www.youtube.com/channel/UC31bW-FYjdc5gsc_Zg77vk(https://www.youtube.com/channel/UC31bW-FYjdc5gsc_Zg77vkA)
+* [Helen Bradley](https://www.youtube.com/channel/UC31bW-FYjdc5gsc_Zg77vkA)
 * [Terry White](https://www.youtube.com/user/terrywhitetechblog)
 * [Made by Mighty](https://www.youtube.com/channel/UCkMBGA68V80H6ZgP__Ez5hA)
 
